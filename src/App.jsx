@@ -1,12 +1,10 @@
-
-import './App.css'
-import LudoBoard from './LudoBoard'
-
+import "./App.css"
+import TodoList from './TodoList.jsx';
 function App() {
 
   return (
     <div>
-      <LudoBoard/>
+      <TodoList/>
     </div>
   )
 
